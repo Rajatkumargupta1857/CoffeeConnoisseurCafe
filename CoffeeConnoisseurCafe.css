@@ -1,0 +1,67 @@
+.header {
+    width: 50px;
+    height: 50px;
+}
+img{
+    width: 5%;
+}
+body  {
+    margin: 0px;
+    padding: 0px;
+    /* background-image: url("https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+    background: linear-gradient(to bottom, #33ccff 0%, #4bf1a1 100%);
+    text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .coffee_img img{
+    height: 100%;
+     /* object-fit: fill; */
+     width: 100%;
+     border: 1px solid red;
+  }
+  .coffee_img {
+    height: 200px;
+     border: 0px solid red;
+     margin-top: 20px;
+     margin-bottom: 10px;
+     border-radius: 5px;
+  }
+
+  .coffee_container{
+   border: 0px solid red;
+     width: 100%;
+     margin-bottom: 20px;
+     border-radius: 6px;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .coffee_container:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.01); 
+  }
+
+  .coffe >div {
+    /* padding: 10px;
+     object-fit: fill; */
+     border-radius: 5px;
+     border: 0px solid red;
+  }
+.read_bt
+{
+  border: 0px solid red;
+  margin-bottom: 20px;
+}
+  
+.navbar
+{
+  background: linear-gradient(to bottom, #33ccff 0%, #33ccff 70%);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
