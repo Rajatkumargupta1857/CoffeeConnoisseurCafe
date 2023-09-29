@@ -8,7 +8,6 @@ img {
 body  {
     margin: 0px;
     padding: 0px;
-    /* background-image: url("https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
     background: linear-gradient(to bottom, #33ccff 0%, #4bf1a1 100%);
     text-align: center;
   }
